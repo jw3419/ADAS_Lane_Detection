@@ -36,7 +36,7 @@
 <br>
 
 **4. Region of Interest:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108625228-2121b500-748d-11eb-8474-f7657cb53fb5.png)
+![image](https://user-images.githubusercontent.com/68436925/108625313-99887600-748d-11eb-855f-9a8fefb555ea.png)
 
 <br>
 
@@ -61,7 +61,7 @@
 <br>
 
 **9. RANSAC:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108625279-5e864280-748d-11eb-9292-710395b61f3c.png)
+![image](https://user-images.githubusercontent.com/68436925/108625331-b45aea80-748d-11eb-946e-711da2918d4b.png)
 
 <br>
 
