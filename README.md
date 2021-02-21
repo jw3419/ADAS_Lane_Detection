@@ -74,6 +74,11 @@
 ![image](https://user-images.githubusercontent.com/68436925/108625296-7d84d480-748d-11eb-8d24-50fb892a4e30.png)
 
 <br>
+
+![](https://user-images.githubusercontent.com/68436925/108625637-57f8ca80-748f-11eb-854b-dafa2fc658a4.gif)
+
+<br>
+
 ### 🎈 교통 신호판 분류
 **1. 비행기 편명 입력:** <br>
 탑승마감 시간까지 남은 시간을 계산하고, 게이트 위치정보를 수집한다.
