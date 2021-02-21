@@ -21,40 +21,59 @@
 ### 🎈 차선 검출
 
 **1. Gray Scale:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624651-8ecbe200-7489-11eb-9764-9e2a4eff2c21.png)
+![image](https://user-images.githubusercontent.com/68436925/108625211-02bbb980-748d-11eb-9f7a-0ed42a3cd2ac.png)
 
 <br>
 
 **2. Gaussian Blur:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624663-a0ad8500-7489-11eb-830d-2a507db14c8d.png)
+![image](https://user-images.githubusercontent.com/68436925/108625218-0fd8a880-748d-11eb-9690-68fbba2931ef.png)
 
 <br>
 
 **3. Canny Edge Detection:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624678-b622af00-7489-11eb-98ab-11e6aea28428.png)
+![image](https://user-images.githubusercontent.com/68436925/108625228-2121b500-748d-11eb-8474-f7657cb53fb5.png)
 
 <br>
 
 **4. Region of Interest:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624693-ca66ac00-7489-11eb-8d0d-f7a0905ee394.png)
+![image](https://user-images.githubusercontent.com/68436925/108625228-2121b500-748d-11eb-8474-f7657cb53fb5.png)
 
 <br>
 
 **5. Hough Line Detection:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624705-e0746c80-7489-11eb-8066-c903c564381c.png)
+![image](https://user-images.githubusercontent.com/68436925/108625253-3860a280-748d-11eb-9142-944823ccfcfc.png)
 
 <br>
 
-**6. Horizon Line Remove:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624737-1c0f3680-748a-11eb-9d28-0be72a403dd1.png)
+**6. Crossing Point Detect:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108625259-431b3780-748d-11eb-89c8-ffaaa00e78a1.png)
 
 <br>
 
-**7. RANSAC:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624783-62649580-748a-11eb-9b69-ba07c1e31b15.png)
+**7. Vanishing Point Detect:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108625271-54644400-748d-11eb-95a8-678d7a4018ee.png)
 
 <br>
 
+**8. Horizon Line Remove:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108625279-5e864280-748d-11eb-9292-710395b61f3c.png)
+
+<br>
+
+**9. RANSAC:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108625279-5e864280-748d-11eb-9292-710395b61f3c.png)
+
+<br>
+
+**10. Connect Vanishing Line:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108625290-6fcf4f00-748d-11eb-9352-3e7623caa0a8.png)
+
+<br>
+
+**11. Weighted Line:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108625296-7d84d480-748d-11eb-8d24-50fb892a4e30.png)
+
+<br>
 ### 🎈 교통 신호판 분류
 **1. 비행기 편명 입력:** <br>
 탑승마감 시간까지 남은 시간을 계산하고, 게이트 위치정보를 수집한다.
