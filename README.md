@@ -19,6 +19,7 @@
 ## 3. Project
 
 ### 🎈 차선 검출
+
 <details>
 <summary>알고리즘 순서도</summary>
   
@@ -79,33 +80,44 @@
 
 <details>
 <summary>결과물</summary>
+  
 ![](https://user-images.githubusercontent.com/68436925/108625637-57f8ca80-748f-11eb-854b-dafa2fc658a4.gif)
+
 </details>
 
 <br>
 
 ### 🎈 교통 신호판 분류
-**1. 비행기 편명 입력:** <br>
-탑승마감 시간까지 남은 시간을 계산하고, 게이트 위치정보를 수집한다.
-![그림1](https://user-images.githubusercontent.com/68436925/108619546-ec9c0200-7468-11eb-931f-50147f41202a.png)
+
+<details>
+<summary>데이터 SET</summary>
+
+![image](https://user-images.githubusercontent.com/68436925/108625877-95aa2300-7490-11eb-9eaa-bb6afa8054fb.png)
+
+</details>
+
+<details>
+<summary>알고리즘 순서도</summary>
+
+**1. Size Equalization:**<br>
+![image](https://user-images.githubusercontent.com/68436925/108625954-005b5e80-7491-11eb-8a9b-abfb3157a21c.png)
 
 <br>
 
-**2. 이용 시설 입력:** <br>
-자신이 이용할 시설을 입력한다.
-![그림2](https://user-images.githubusercontent.com/68436925/108620533-19074c80-7470-11eb-8c8f-9c31fd08eb21.png)
+**2. Brightness Equalization:**<br>
+![image](https://user-images.githubusercontent.com/68436925/108625973-1ff28700-7491-11eb-89fb-1448f3fe1d8f.png)
 
 <br>
 
-**3. 추천 시설 안내:** <br>
-추천한 시설의 경로를 안내한다.
-![그림3](https://user-images.githubusercontent.com/68436925/108620643-d42fe580-7470-11eb-8097-8e016f7ddd2a.png)
+**3. CNN:**<br>
+![image](https://user-images.githubusercontent.com/68436925/108625990-37317480-7491-11eb-9d46-460a1506dc97.png)
 
 <br>
+</details>
 
-**4. 탑승 알림:** <br>
-비행기 탑승 마감 시간이 임박하면, 사용자에게 알림을 보낸다.
-![그림4](https://user-images.githubusercontent.com/68436925/108620569-494eeb00-7470-11eb-9761-f89b6111dc6b.png)
-
-
-
+<details>
+<summary>결과물</summary>
+  
+![image](https://user-images.githubusercontent.com/68436925/108626030-752e9880-7491-11eb-8faa-509bf131f355.png)
+  
+</details>
