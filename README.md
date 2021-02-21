@@ -1,58 +1,15 @@
 ## 1. Intro
 
-![](https://user-images.githubusercontent.com/68436925/108617755-35998980-745c-11eb-9c1d-4832f3438f6a.png)
+
+> **프로젝트 명 :** Lane Detection & Traffic Sign Recognition
+
+> **프로젝트 형태 :** 대학교 전공 과목 프로젝트 / 1인 프로젝트
 
 <br>
 
-> **프로젝트 명 :** Smart Airport Web Application
-
-> **프로젝트 형태 :** 졸업생 프로젝트
-
-<br>
-
-## 2. Team Member
-
-### 🎈 Role
-
-<details>
-<summary>이재원 [Team Leader]</summary>
-
-- #### Position: `알고리즘 개발`
-
-- #### Stack: `Python`
-
-#### [데이터 분석]
-
-- 데이터 정의, 수집, 전처리
-- Content Based 기반의 추천 알고리즘 개발
-</details>
-
-<details>
-<summary>최용진 [Team Member]</summary>
-
-- #### Position: `알고리즘 개발`
-
-- #### Stack: `Python`
-
-#### [알고리즘 개발]
-
-- 최단 경로 안내 알고리즘 개발
-- TSP Gijkstra
-</details>
-
-<details>
-  
-<summary>박진영 [Team Member]</summary>
-
-- #### Position: `Web`
-
-- #### Stack: `Flask`, `Bootstrap`
-
-#### [Web]
-
-- Flask, Bootstrap을 이용한 클라이언트 구현
-
-</details>
+## 2. My Work
+- 영상처리 기초 실습
+![그림13](https://user-images.githubusercontent.com/68436925/108623949-2da20f80-7485-11eb-96de-9814eba449d7.png)
 
 <br>
 
