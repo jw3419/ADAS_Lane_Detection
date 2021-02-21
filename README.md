@@ -19,7 +19,8 @@
 ## 3. Project
 
 ### 🎈 차선 검출
-
+<details>
+<summary>알고리즘 순서도</summary>
 **1. Gray Scale:** <br>
 ![image](https://user-images.githubusercontent.com/68436925/108625211-02bbb980-748d-11eb-9f7a-0ed42a3cd2ac.png)
 
@@ -73,7 +74,7 @@
 **11. Weighted Line:** <br>
 ![image](https://user-images.githubusercontent.com/68436925/108625296-7d84d480-748d-11eb-8d24-50fb892a4e30.png)
 
-<br>
+</details>
 
 ![](https://user-images.githubusercontent.com/68436925/108625637-57f8ca80-748f-11eb-854b-dafa2fc658a4.gif)
 
