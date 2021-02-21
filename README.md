@@ -77,7 +77,10 @@
 
 </details>
 
+<details>
+<summary>결과물</summary>
 ![](https://user-images.githubusercontent.com/68436925/108625637-57f8ca80-748f-11eb-854b-dafa2fc658a4.gif)
+</details>
 
 <br>
 
