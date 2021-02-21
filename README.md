@@ -11,23 +11,61 @@
 - 영상처리 기초 실습
 ![그림13](https://user-images.githubusercontent.com/68436925/108623949-2da20f80-7485-11eb-96de-9814eba449d7.png)
 
-- Lane Detection
+- 차선 검출
 
-- Traffic Sign Recognition
+- 교통 신호판 분류
 <br>
 
 ## 3. Project
 
-### 🎈 Smart Airport가 무엇인가요?
+### 🎈 차선 검출
 
-Smart Airport는 공항 내의 시설을 추천해주는 서비스입니다.
-
-인공지능을 통해 사용자가 선택한 시설과 유사한 시설들을 추천하여,<br>
-인천공항내에 다양한 시설들을 폭 넓게 이용할 수 있도록 도움을 주는 웹 어플리케이션입니다.<br>
+**1. Original Image:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624378-ff71ff00-7487-11eb-83ef-cad367e6ddc8.png)
 
 <br>
 
-### 🎈 Flow Chart
+**2. Gray Scale:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624385-07ca3a00-7488-11eb-871b-f17e79aa52b1.png)
+
+<br>
+
+**3. Gaussian Blur:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624391-10227500-7488-11eb-952f-3d31e024daa0.png)
+
+<br>
+
+**4. Canny Edge Detection:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624396-144e9280-7488-11eb-9aeb-a1401adccc2b.png)
+
+<br>
+
+**5. Region of Interest:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624400-19abdd00-7488-11eb-860e-424e57552da7.png)
+
+<br>
+
+**6. Hough Line Detection:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624404-1dd7fa80-7488-11eb-86ca-fc194f27ec3f.png)
+
+<br>
+
+**7. Horizon Line Remove:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624408-216b8180-7488-11eb-9213-488edbcc3949.png)
+
+<br>
+
+**8. RANSAC:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624417-30eaca80-7488-11eb-92ca-109be7e8f27e.png)
+
+<br>
+
+**9. 비행기 편명 입력:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624419-3516e800-7488-11eb-8800-c5be1a8d0bda.png)
+
+<br>
+
+### 🎈 교통 신호판 분류
 **1. 비행기 편명 입력:** <br>
 탑승마감 시간까지 남은 시간을 계산하고, 게이트 위치정보를 수집한다.
 ![그림1](https://user-images.githubusercontent.com/68436925/108619546-ec9c0200-7468-11eb-931f-50147f41202a.png)
