@@ -92,7 +92,7 @@
 <details>
 <summary>데이터 SET</summary>
 
-![image](https://user-images.githubusercontent.com/68436925/108625877-95aa2300-7490-11eb-9eaa-bb6afa8054fb.png)
+![image](https://user-images.githubusercontent.com/68436925/108626063-a60ecd80-7491-11eb-8973-8a3996b9434e.png)
 
 </details>
 
