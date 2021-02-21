@@ -20,48 +20,38 @@
 
 ### 🎈 차선 검출
 
-**1. Original Image:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624378-ff71ff00-7487-11eb-83ef-cad367e6ddc8.png)
+**1. Gray Scale:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624651-8ecbe200-7489-11eb-9764-9e2a4eff2c21.png)
 
 <br>
 
-**2. Gray Scale:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624385-07ca3a00-7488-11eb-871b-f17e79aa52b1.png)
+**2. Gaussian Blur:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624663-a0ad8500-7489-11eb-830d-2a507db14c8d.png)
 
 <br>
 
-**3. Gaussian Blur:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624391-10227500-7488-11eb-952f-3d31e024daa0.png)
+**3. Canny Edge Detection:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624678-b622af00-7489-11eb-98ab-11e6aea28428.png)
 
 <br>
 
-**4. Canny Edge Detection:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624396-144e9280-7488-11eb-9aeb-a1401adccc2b.png)
+**4. Region of Interest:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624693-ca66ac00-7489-11eb-8d0d-f7a0905ee394.png)
 
 <br>
 
-**5. Region of Interest:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624400-19abdd00-7488-11eb-860e-424e57552da7.png)
+**5. Hough Line Detection:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624705-e0746c80-7489-11eb-8066-c903c564381c.png)
 
 <br>
 
-**6. Hough Line Detection:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624404-1dd7fa80-7488-11eb-86ca-fc194f27ec3f.png)
+**6. Horizon Line Remove:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624737-1c0f3680-748a-11eb-9d28-0be72a403dd1.png)
 
 <br>
 
-**7. Horizon Line Remove:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624408-216b8180-7488-11eb-9213-488edbcc3949.png)
-
-<br>
-
-**8. RANSAC:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624417-30eaca80-7488-11eb-92ca-109be7e8f27e.png)
-
-<br>
-
-**9. 비행기 편명 입력:** <br>
-![image](https://user-images.githubusercontent.com/68436925/108624419-3516e800-7488-11eb-8800-c5be1a8d0bda.png)
+**7. RANSAC:** <br>
+![image](https://user-images.githubusercontent.com/68436925/108624783-62649580-748a-11eb-9b69-ba07c1e31b15.png)
 
 <br>
 
